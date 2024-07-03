@@ -73,4 +73,5 @@ public class User {
         this.news = news;
     }
 
+
 }
