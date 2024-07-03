@@ -61,8 +61,8 @@ public class User {
         return features;
     }
 
-    public void setFeatures(List<Feature> feature) {
-        this.features = feature;
+    public void setFeatures(List<Feature> features) {
+        this.features = features;
     }
 
     public List<News> getNews() {
