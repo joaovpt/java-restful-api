@@ -2,7 +2,7 @@ package me.dio.java_restful_api.service;
 
 import java.util.List;
 
-public interface CrudService<ID, T>{
+public interface CrudService<ID, T> {
     List<T> findAll();
     T findById(ID id);
     T create(T entity);

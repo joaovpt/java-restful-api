@@ -4,7 +4,6 @@ import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;
 import io.swagger.v3.oas.annotations.tags.Tag;
-
 import me.dio.java_restful_api.controller.dto.UserDto;
 import me.dio.java_restful_api.service.UserService;
 import org.springframework.http.ResponseEntity;
